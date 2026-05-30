@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFC857,75:4ECDC4,100:45B7D1&height=200&section=header&text=Karthikeyan%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE(AI%20%26%20ML)%20Student%20%7C%20Full%20Stack%20Dev%20%7C%20React%20%2B%20Node.js%20%7C%20TypeScript&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFC857,75:4ECDC4,100:45B7D1&height=200&section=header&text=Karthikeyan%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE(AIML)%20Student%20%7C%20Full%20Stack%20Dev%20%7C%20React%20%2B%20Node.js%20%7C%20TypeScript&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Hey+there!+I'm+Karthikeyan+M+%F0%9F%91%8B;B.E+CSE+(AI+%26+ML)+Student+%F0%9F%8E%93;React+%2B+Node.js+%2B+TypeScript+Dev+%F0%9F%9A%80;Building+AR+%26+AI+Powered+Apps+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%8D;Tamil+Nadu%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Hey+there!+I'm+Karthikeyan+M+%F0%9F%91%8B;CSE(AI+%26+ML)+Student+%F0%9F%8E%93;React+%2B+Node.js+%2B+TypeScript+Dev+%F0%9F%9A%80;Building+AR+%26+AI+Powered+Apps+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%8D;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,28 +33,24 @@
 
 ```typescript
 const karthikeyan: Developer = {
-  name      : "Karthikeyan M",
-  username  : "Karthikeyancse-coder",
-  pronouns  : "he/him",
-  education : "B.E - Computer Science and Engineering (AI and ML)",
-  email     : "karthikeyansudha008@gmail.com",
+  name       : "Karthikeyan M",
+  username   : "Karthikeyancse-coder",
+  pronouns   : "he/him",
+  education  : " B.E — CSE(Artificial Intelligence and Machine Learning)",
+  email      : "karthikeyansudha008@gmail.com",
 
   currentlyBuilding: [
-    "AR-Learning       — AR + GenAI powered learning platform",
+    "AR-Learning       — AR + GenAI learning platform",
     "BeyondResume-AI   — AI-powered hiring evaluator",
-    "Smart-NGO-Matcher — Disaster response + NGO platform",
+    "Smart-NGO-Matcher — Disaster response platform",
   ],
 
   techStack: {
     frontend : ["React", "TypeScript", "HTML5", "CSS3", "Tailwind"],
     backend  : ["Node.js", "Express.js"],
     database : ["MongoDB", "MySQL"],
-    ai_ml    : ["Python", "TensorFlow", "OpenCV", "GenAI APIs"],
     tools    : ["Git", "GitHub", "Vite", "Postman", "Figma", "VS Code"],
   },
-
-  learning : ["Docker", "System Design", "DSA", "Next.js", "LLMs"],
-  funFact  : "I turn coffee ☕ into AI-powered apps 🤖",
   portfolio: "https://karthikeyan-m-portfolio.netlify.app/",
 };
 ```
@@ -63,7 +59,7 @@ const karthikeyan: Developer = {
 
 <div align="center">
 
-## 🛠️ Tech Stack and Tools
+## 🛠️ Tech Stack & Tools
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -74,19 +70,13 @@ const karthikeyan: Developer = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙️ Backend and Database
+### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI and ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-
-### 🧰 Tools and Platforms
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -95,6 +85,7 @@ const karthikeyan: Developer = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📚 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -106,9 +97,7 @@ const karthikeyan: Developer = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Karthikeyancse-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFC857&text_color=FFFFFF&border_radius=15&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyancse-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&border_radius=15&langs_count=8" height="180" alt="Top Languages"/>
+
 
 <br/><br/>
 
@@ -121,7 +110,6 @@ const karthikeyan: Developer = {
 <div align="center">
 
 ## 📈 Contribution Graph
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyancse-coder&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFC857&area=true&hide_border=true&custom_title=Karthikeyan's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 
 </div>
@@ -133,9 +121,9 @@ const karthikeyan: Developer = {
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthikeyancse-coder/Karthikeyancse-coder/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthikeyancse-coder/Karthikeyancse-coder/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Karthikeyancse-coder/Karthikeyancse-coder/output/github-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthikeyancse-coder/Karthikeyan/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthikeyancse-coder/Karthikeyan/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Karthikeyancse-coder/Karthikeyan/output/github-snake.svg" width="100%"/>
 </picture>
 
 </div>
