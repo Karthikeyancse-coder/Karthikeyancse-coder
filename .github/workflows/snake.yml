@@ -1,0 +1,56 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v5
+
+      - name: Fetch Stats & Languages SVGs
+        run: |
+          mkdir -p output-files
+
+          # Retry up to 5 times with delay for stats
+          for i in 1 2 3 4 5; do
+            curl -s --max-time 30 \
+              "https://github-readme-stats.vercel.app/api?username=Karthikeyancse-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFC857&text_color=FFFFFF&border_radius=15&include_all_commits=true&count_private=true" \
+              -o output-files/stats.svg
+            # Check if it's a real SVG (not an error HTML page)
+            if grep -q "<svg" output-files/stats.svg; then
+              echo "stats.svg fetched successfully on attempt $i"
+              break
+            fi
+            echo "Attempt $i failed for stats, retrying in 10s..."
+            sleep 10
+          done
+
+          # Retry up to 5 times with delay for langs
+          for i in 1 2 3 4 5; do
+            curl -s --max-time 30 \
+              "https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyancse-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&border_radius=15&langs_count=8" \
+              -o output-files/langs.svg
+            if grep -q "<svg" output-files/langs.svg; then
+              echo "langs.svg fetched successfully on attempt $i"
+              break
+            fi
+            echo "Attempt $i failed for langs, retrying in 10s..."
+            sleep 10
+          done
+
+      - name: Deploy SVGs to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./output-files
+          keep_files: true
+          commit_message: "ci: update stats cards"
