@@ -36,13 +36,13 @@ const karthikeyan: Developer = {
   name      : "Karthikeyan M",
   username  : "Karthikeyancse-coder",
   pronouns  : "he/him",
-  education : "B.E — Computer Science & Engineering (AI & ML)",
+  education : "B.E - Computer Science and Engineering (AI and ML)",
   email     : "karthikeyansudha008@gmail.com",
 
   currentlyBuilding: [
     "AR-Learning       — AR + GenAI powered learning platform",
     "BeyondResume-AI   — AI-powered hiring evaluator",
-    "Smart-NGO-Matcher — Disaster response & NGO platform",
+    "Smart-NGO-Matcher — Disaster response + NGO platform",
   ],
 
   techStack: {
@@ -52,6 +52,9 @@ const karthikeyan: Developer = {
     ai_ml    : ["Python", "TensorFlow", "OpenCV", "GenAI APIs"],
     tools    : ["Git", "GitHub", "Vite", "Postman", "Figma", "VS Code"],
   },
+
+  learning : ["Docker", "System Design", "DSA", "Next.js", "LLMs"],
+  funFact  : "I turn coffee ☕ into AI-powered apps 🤖",
   portfolio: "https://karthikeyan-m-portfolio.netlify.app/",
 };
 ```
@@ -60,7 +63,7 @@ const karthikeyan: Developer = {
 
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack and Tools
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -71,19 +74,19 @@ const karthikeyan: Developer = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙️ Backend & Database
+### ⚙️ Backend and Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI & ML
+### 🤖 AI and ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
-### 🧰 Tools & Platforms
+### 🧰 Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -103,7 +106,9 @@ const karthikeyan: Developer = {
 
 ## 📊 GitHub Stats
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=Karthikeyancse-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFC857&text_color=FFFFFF&border_radius=15&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyancse-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&border_radius=15&langs_count=8" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
