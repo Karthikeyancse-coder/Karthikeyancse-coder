@@ -15,6 +15,9 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v5
 
+      - name: Create output directory
+        run: mkdir -p output-files
+
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
@@ -23,9 +26,8 @@ jobs:
             output-files/github-snake.svg
             output-files/github-snake-dark.svg?palette=github-dark
 
-      - name: Fetch Stats SVG
+      - name: Fetch Stats and Langs SVGs
         run: |
-          mkdir -p output-files
           STAT_URLS=(
             "https://github-readme-stats.vercel.app/api?username=Karthikeyancse-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFC857&text_color=FFFFFF&border_radius=15&include_all_commits=true&count_private=true"
             "https://github-readme-stats-sigma-five.vercel.app/api?username=Karthikeyancse-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFC857&text_color=FFFFFF&border_radius=15&include_all_commits=true&count_private=true"
@@ -39,8 +41,6 @@ jobs:
             echo "Failed, trying next mirror..."; sleep 5
           done
 
-      - name: Fetch Langs SVG
-        run: |
           LANG_URLS=(
             "https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyancse-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&border_radius=15&langs_count=8"
             "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Karthikeyancse-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&border_radius=15&langs_count=8"
