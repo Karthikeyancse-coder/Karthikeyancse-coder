@@ -17,7 +17,6 @@
   </a>
 </p>
 </div>
-
 ---
 
 <div align="center">
@@ -47,7 +46,6 @@ const karthikeyan: Developer = {
     ai_ml    : ["Python", "TensorFlow", "OpenCV", "GenAI APIs"],
     tools    : ["Git", "GitHub", "Vite", "Postman", "Figma", "VS Code"],
   },
-
   portfolio: "https://karthikeyan-m-portfolio.netlify.app/",
 };
 ```
@@ -88,7 +86,6 @@ const karthikeyan: Developer = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📚 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -100,8 +97,8 @@ const karthikeyan: Developer = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Karthikeyancse-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFC857&text_color=FFFFFF&border_radius=15&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyancse-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&border_radius=15&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/Karthikeyancse-coder/Karthikeyancse-coder/output/stats.svg" height="180" alt="GitHub Stats"/>
+<img src="https://raw.githubusercontent.com/Karthikeyancse-coder/Karthikeyancse-coder/output/langs.svg" height="180" alt="Top Languages"/>
 
 <br/>
 
