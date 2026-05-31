@@ -36,7 +36,7 @@ const karthikeyan: Developer = {
   name       : "Karthikeyan M",
   username   : "Karthikeyancse-coder",
   pronouns   : "he/him",
-  education  : " B.E — CSE(Artificial Intelligence and Machine Learning)",
+  education  : "B.E — CSE (Artificial Intelligence and Machine Learning)",
   email      : "karthikeyansudha008@gmail.com",
 
   currentlyBuilding: [
@@ -51,7 +51,8 @@ const karthikeyan: Developer = {
     database : ["MongoDB", "MySQL"],
     tools    : ["Git", "GitHub", "Vite", "Postman", "Figma", "VS Code"],
   },
-  portfolio: "https://karthikeyan-m-portfolio.netlify.app/",
+
+  portfolio  : "https://karthikeyan-m-portfolio.netlify.app/",
 };
 ```
 
@@ -97,7 +98,10 @@ const karthikeyan: Developer = {
 
 ## 📊 GitHub Stats
 
-
+<!-- Stats & Langs — served from YOUR output branch (never breaks) -->
+<img src="https://raw.githubusercontent.com/Karthikeyancse-coder/Karthikeyan/output/stats.svg" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Karthikeyancse-coder/Karthikeyan/output/langs.svg" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -110,21 +114,8 @@ const karthikeyan: Developer = {
 <div align="center">
 
 ## 📈 Contribution Graph
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyancse-coder&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFC857&area=true&hide_border=true&custom_title=Karthikeyan's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthikeyancse-code/Karthikeyancse-code/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthikeyancse-code/Karthikeyancse-code/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Karthikeyancse-code/Karthikeyancse-code/output/github-snake.svg" width="100%"/>
-</picture>
 
 </div>
 
