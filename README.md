@@ -1,21 +1,21 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFC857,75:4ECDC4,100:45B7D1&height=200&section=header&text=Karthikeyan%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE(AI%20%26%20ML)%20Student%20%7C%20Full%20Stack%20Dev%20%7C%20React%20%2B%20Node.js%20%7C%20TypeScript&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
-
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFC857,75:4ECDC4,100:45B7D1&height=200&section=header&text=Karthikeyan%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE(AIML)%20Student%20%7C%20Full%20Stack%20Dev%20%7C%20React%20%2B%20Node.js%20%7C%20TypeScript&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Hey+there!+I%27m+Karthikeyan+M+%F0%9F%91%8B;B.E+CSE+(AI+%26+ML)+Student+%F0%9F%8E%93;React+%2B+Node.js+%2B+TypeScript+Dev+%F0%9F%9A%80;Building+AR+%26+AI+Powered+Apps+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Hey+there!+I'm+Karthikeyan+M+%F0%9F%91%8B;CSE(AI+%26+ML)+Student+%F0%9F%8E%93;React+%2B+Node.js+%2B+TypeScript+Dev+%F0%9F%9A%80;Building+AR+%26+AI+Powered+Apps+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%8D;" alt="Typing SVG" />
 </a>
-
 <br/>
-
+<!-- Badges Row -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Karthikeyancse-coder&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="profile views"/>
+  &nbsp;
   <img src="https://img.shields.io/github/followers/Karthikeyancse-coder?label=Followers&style=for-the-badge&color=FFC857&labelColor=1a1a2e" alt="followers"/>
+  &nbsp;
   <a href="https://karthikeyan-m-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white" alt="portfolio"/>
   </a>
 </p>
-
 </div>
 
 ---
