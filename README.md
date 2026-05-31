@@ -31,7 +31,7 @@ const karthikeyan: Developer = {
   name      : "Karthikeyan M",
   username  : "Karthikeyancse-coder",
   pronouns  : "he/him",
-  education : "B.E - Computer Science and Engineering (AI and ML)",
+  education : "B.E - CSE (Artificial Intelligence and Machine Learning)",
   email     : "karthikeyansudha008@gmail.com",
 
   currentlyBuilding: [
@@ -48,8 +48,6 @@ const karthikeyan: Developer = {
     tools    : ["Git", "GitHub", "Vite", "Postman", "Figma", "VS Code"],
   },
 
-  learning : ["Docker", "System Design", "DSA", "Next.js", "LLMs"],
-  funFact  : "I turn coffee into AI-powered apps",
   portfolio: "https://karthikeyan-m-portfolio.netlify.app/",
 };
 ```
@@ -90,6 +88,7 @@ const karthikeyan: Developer = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📚 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -162,5 +161,7 @@ const karthikeyan: Developer = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45B7D1,25:4ECDC4,50:FFC857,75:FF8E53,100:FF6B6B&height=120&section=footer" width="100%"/>
 
 **If you like my work, consider giving my repos a star - it means a lot!**
+
+*Code is like humor. When you have to explain it, its bad.*
 
 </div>
