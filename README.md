@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFC857,75:4ECDC4,100:45B7D1&height=200&section=header&text=Karthikeyan%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE(AI%20%26%20ML)%20Student%20%7C%20Full%20Stack%20Dev%20%7C%20React%20%2B%20Node.js%20%7C%20TypeScript&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Hey+there!+I'm+Karthikeyan+M+%F0%9F%91%8B;B.E+CSE+(AI+%26+ML)+Student+%F0%9F%8E%93;React+%2B+Node.js+%2B+TypeScript+Dev+%F0%9F%9A%80;Building+AR+%26+AI+Powered+Apps+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Hey+there!+I%27m+Karthikeyan+M+%F0%9F%91%8B;B.E+CSE+(AI+%26+ML)+Student+%F0%9F%8E%93;React+%2B+Node.js+%2B+TypeScript+Dev+%F0%9F%9A%80;Building+AR+%26+AI+Powered+Apps+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -116,7 +116,7 @@ const karthikeyan: Developer = {
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyancse-coder&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFC857&area=true&hide_border=true&custom_title=Karthikeyan's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyancse-coder&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFC857&area=true&hide_border=true&custom_title=Karthikeyan%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -138,7 +138,7 @@ const karthikeyan: Developer = {
 
 <div align="center">
 
-## 🌐 Let's Connect!
+## 🌐 Lets Connect!
 
 <a href="https://www.linkedin.com/in/karthikeyan-m-2380262b0" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
